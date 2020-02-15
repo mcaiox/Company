@@ -73,11 +73,11 @@
 				440A215D23F74C59000E54FB /* Employee.cpp */,
 				440A215E23F74C59000E54FB /* Employee.hpp */,
 				440A216023F752A4000E54FB /* EmployeeBase.cpp */,
+				440A216123F752A4000E54FB /* EmployeeBase.hpp */,
 				440A216323F75690000E54FB /* TraineeEmployee.cpp */,
 				440A216423F75690000E54FB /* TraineeEmployee.hpp */,
 				440A216923F75829000E54FB /* SeniorEmployee.cpp */,
 				440A216A23F75829000E54FB /* SeniorEmployee.hpp */,
-				440A216123F752A4000E54FB /* EmployeeBase.hpp */,
 			);
 			path = Company;
 			sourceTree = "<group>";
